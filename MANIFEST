@@ -1,0 +1,16 @@
+Build.PL
+Changes
+lib/TM2/0MQ.pm
+lib/TM2/0MQcapable.pm
+lib/TM2/TS/Stream/zeromq.pm
+lib/Net/Async/0MQ/Socket.pm
+ontologies/zmq.atm
+ontologies/zmq.ts
+MANIFEST			This list of files
+README
+t/01_socket.t
+t/02_ts.t
+t/05_socket.t
+Makefile.PL
+META.yml
+META.json
